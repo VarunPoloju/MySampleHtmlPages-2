@@ -1,0 +1,20 @@
+table,tr,td{
+    width: 500px;
+    height: 25px;
+    text-align: center;
+     /* border: 1px solid black;  */
+    border-collapse: collapse; 
+    /* background-color: lightcoral; */
+    float: none;
+}
+tr:nth-child(){
+    background-color: grey;
+}
+.header{
+    background-color: skyblue;
+    border-collapse: collapse;
+    }
+   
+table,.child{
+    background-color: gray;
+}
